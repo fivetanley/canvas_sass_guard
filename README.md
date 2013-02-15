@@ -7,6 +7,8 @@ Run SASS independently of Rails for the Canvas LMS project.
 
 From your installation of canvas-lms:
 
-`git clone https://github.com/fivetanley/canvas_sass_guard.git vendor/plugins/canvas_sass_guard.git`
-`bundle update`
-`bundle exec guard`
+```
+git clone https://github.com/fivetanley/canvas_sass_guard.git vendor/plugins/canvas_sass_guard.git`
+bundle update
+bundle exec guard
+```
